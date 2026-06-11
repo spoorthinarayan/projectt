@@ -1,0 +1,11 @@
+node_modules/
+
+__pycache__/
+*.pyc
+
+backend/chroma_db/
+backend/uploads/
+backend/rag/chroma_db/
+
+backend/__pycache__/
+backend/rag/__pycache__/
